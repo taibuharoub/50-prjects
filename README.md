@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to 50-prjects 👋</h1>
+<h1 align="center">Welcome to 50-prjects</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/taibuharoub/50-prjects#readme" target="_blank">
@@ -12,21 +12,13 @@
   </a>
 </p>
 
-> Sharpen your Html, JavaScript and CSS skills
+> Sharpen your Html, JavaScript and CSS skills with 50 different projects
 
 ### 🏠 [Homepage](https://github.com/taibuharoub/50-prjects#readme)
 
-## Install
-
-```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
-```
+## Projects
+- 00 Boilerplate
+- 09 Form Wave Animation
 
 ## Author
 
@@ -46,4 +38,3 @@ Give a ⭐️ if this project helped you!
 This project is [ISC](https://github.com/taibuharoub/50-prjects/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
