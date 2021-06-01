@@ -18,7 +18,9 @@
 
 ## Projects
 - 00 Boilerplate
+- 05 Hidden Search Widget
 - 09 Form Wave Animation
+- 42 Verify Account UI
 
 ## Author
 
