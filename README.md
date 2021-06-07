@@ -21,6 +21,7 @@
 - 05 Hidden Search Widget
 - 09 Form Wave Animation
 - 16 16 Increment Counter
+- 30 Double Heart Click
 - 42 Verify Account UI
 
 ## Author
